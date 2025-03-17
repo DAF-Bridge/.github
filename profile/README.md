@@ -1,9 +1,15 @@
 # Talent Atmos
----
 
-## Project Overview
----
+## Talent Atmos Frontend
+The official frontend repository for Talent Frontend
 
+## Talent Atmos Admin
+
+## Talent Atmos Backend
+
+## Talent Atmos Rec
+
+---
 ### Link
 - Talent Frontend:  You can visit our site via this link: [Talent-Atmos-Frontend](https://talent-atmos.netlify.app)
 
