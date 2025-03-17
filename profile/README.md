@@ -6,7 +6,6 @@
 
 ### Link
 - Talent Frontend:  You can visit our site via this link: [Talent-Atmos-Frontend](https://talent-atmos.netlify.app)
-- Talent Admin: You can visit our site via this link: [Talent-Atmos-Admin](https://ta-mgmt-cons.netlify.app)
 
 <!--
 **Here are some ideas to get you started:**
