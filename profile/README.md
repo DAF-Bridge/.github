@@ -4,8 +4,10 @@
 The official frontend repository for Talent Frontend
 
 ## Talent Atmos Admin
+The official frontend repository for Talent Admin
 
 ## Talent Atmos Backend
+The official backend repository for Talent Backend
 
 ## Talent Atmos Rec
 
