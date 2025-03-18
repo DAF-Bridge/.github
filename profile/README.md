@@ -62,8 +62,8 @@ The repository for ML model that will be used for inferencing
 
 ---
 ### Link
-- Talent Frontend:  You can visit our site via this link: [Talent-Atmos-Frontend](https://talent-atmos.netlify.app)
-- Admin Console: You can visit the admin console site via this link: [Talent-Atmos-Admin](https://ta-mgmt-cons.netlify.app)
+- Talent Atmos Frontend: You can visit our site via this link: [Talent-Atmos-Frontend](https://talent-atmos.netlify.app)
+- Talent Atmos Admin Console: You can visit the admin console site via this link: [Talent-Atmos-Admin](https://ta-mgmt-cons.netlify.app)
 
 <!--
 **Here are some ideas to get you started:**
