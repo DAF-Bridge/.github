@@ -1,7 +1,16 @@
 # Talent Atmos
 
+## Deployment
+This project's deployment is divided into five main parts:
+- Frontend Website (Containerized)
+- Admin Console Site 
+- Backend Service (Containerized)
+- Kafaka Consumer (Containerized)
+- Recommendation Service
+
 ## Talent Atmos Frontend
-The official frontend repository for Talent Frontend
+The official frontend repository for Talent Atmos Frontend
+In the project's repository it contains Dockerfile for building the docker image and it needs environment variables show in .env.example for deployment
 ### __Technology Stack__
 - Framework: Nextjs
 - Language: TypeScript
@@ -10,7 +19,8 @@ The official frontend repository for Talent Frontend
 - Continuous Development: Netlify
 
 ## Talent Atmos Admin
-The official frontend repository for Talent Admin
+The official frontend repository for Talent Atmos Admin
+It needs environment variables show in .env.example for deployment
 ### __Technology Stack__
 - Framework: Nextjs
 - Language: TypeScript
@@ -20,7 +30,8 @@ The official frontend repository for Talent Admin
 - Continuous Development: Netlify
 
 ## Talent Atmos Backend
-The official backend repository for Talent Backend
+The official backend repository for Talent Atmos Backend
+In the project's repository it contains Dockerfile for building the docker image and it needs environment variables show in .env.example for deployment
 ### __Technology Stack__
 - Framework: GO Fiber
 - Language: GO
@@ -34,6 +45,7 @@ The official backend repository for Talent Backend
 
 ## Kafka-Consumer-CDC
 The repository for consumer that will process the data change from PostgreSQL to Opensearch/Elasticsearch
+In the project's repository it contains Dockerfile for building the docker image and it needs environment variables show in .env.example for deployment
 ### __Technology Stack__
 - Language: GO
 - Message Queue: Apache Kafka
@@ -47,14 +59,6 @@ The repository for ML model that will be used for inferencing
 - Framework: FastAPI & Pytorch
 - Language: Python
 - Continuous Integration: GitHub Action
-
-## Deployment
-This project's deployment is divided into five main parts:
-- Frontend Website (Containerized)
-- Admin Console Site 
-- Backend Service (Containerized)
-- Kafaka Consumer (Containerized)
-- Recommendation Service
 
 ---
 ### Link
