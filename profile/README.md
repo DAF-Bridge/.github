@@ -9,7 +9,7 @@ This project's deployment is divided into five main parts:
 - Recommendation Service
 
 ## Talent Atmos Frontend
-The official frontend repository for Talent Atmos Frontend
+The official frontend repository for Talent Atmos Frontend <br />
 In the project's repository it contains Dockerfile for building the docker image and it needs environment variables show in .env.example for deployment
 ### __Technology Stack__
 - Framework: Nextjs
@@ -19,7 +19,7 @@ In the project's repository it contains Dockerfile for building the docker image
 - Continuous Development: Netlify
 
 ## Talent Atmos Admin
-The official frontend repository for Talent Atmos Admin
+The official frontend repository for Talent Atmos Admin <br />
 It needs environment variables show in .env.example for deployment
 ### __Technology Stack__
 - Framework: Nextjs
@@ -30,7 +30,7 @@ It needs environment variables show in .env.example for deployment
 - Continuous Development: Netlify
 
 ## Talent Atmos Backend
-The official backend repository for Talent Atmos Backend
+The official backend repository for Talent Atmos Backend <br />
 In the project's repository it contains Dockerfile for building the docker image and it needs environment variables show in .env.example for deployment
 ### __Technology Stack__
 - Framework: GO Fiber
@@ -44,7 +44,7 @@ In the project's repository it contains Dockerfile for building the docker image
 - Continuous Development: Jenkins
 
 ## Kafka-Consumer-CDC
-The repository for consumer that will process the data change from PostgreSQL to Opensearch/Elasticsearch
+The repository for consumer that will process the data change from PostgreSQL to Opensearch/Elasticsearch <br />
 In the project's repository it contains Dockerfile for building the docker image and it needs environment variables show in .env.example for deployment
 ### __Technology Stack__
 - Language: GO
