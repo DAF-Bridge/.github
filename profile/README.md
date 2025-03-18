@@ -6,6 +6,8 @@ The official frontend repository for Talent Frontend
 - Framework: Nextjs
 - Language: TypeScript
 - Styling: Tailwind CSS
+- Continuous Integration: GitHub Action
+- Continuous Development: Netlify
 
 ## Talent Atmos Admin
 The official frontend repository for Talent Admin
@@ -14,6 +16,8 @@ The official frontend repository for Talent Admin
 - Language: TypeScript
 - UI Components: Shadcn
 - Styling: Tailwind CSS
+- Continuous Integration: GitHub Action
+- Continuous Development: Netlify
 
 ## Talent Atmos Backend
 The official backend repository for Talent Backend
@@ -25,6 +29,8 @@ The official backend repository for Talent Backend
 - API Document: Swagger
 - Searching: Opensearch
 - RBAC: Casbin
+- Continuous Integration: GitHub Action
+- Continuous Development: Jenkins
 
 ## Kafka-Consumer-CDC
 The repository for consumer that will process the data change from PostgreSQL to Opensearch/Elasticsearch
@@ -33,12 +39,14 @@ The repository for consumer that will process the data change from PostgreSQL to
 - Message Queue: Apache Kafka
 - Database: PostgreSQL & Opensearch
 - CDC connector: Debezium
+- Continuous Integration: GitHub Action
 
 ## Talent Atmos Rec
 The repository for ML model that will be used for inferencing
 ### __Technology Stack__
 - Framework: FastAPI & Pytorch
 - Language: Python
+- Continuous Integration: GitHub Action
 
 ---
 ### Link
