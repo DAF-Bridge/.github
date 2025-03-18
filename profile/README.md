@@ -9,7 +9,11 @@ The official frontend repository for Talent Admin
 ## Talent Atmos Backend
 The official backend repository for Talent Backend
 
+## Kafka-Consumer-CDC
+The repository for consumer that will process the data change from PostgreSQL to Opensearch/Elasticsearch
+
 ## Talent Atmos Rec
+The repository for ML model that will be used for inferencing
 
 ---
 ### Link
