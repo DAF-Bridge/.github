@@ -24,7 +24,7 @@ The official backend repository for Talent Backend
 ### __Technology Stack__
 - Framework: GO Fiber
 - Language: GO
-- Database: PostgreSQL & Opensearch
+- Database: PostgreSQL & Opensearch & AWS S3
 - Authentication: JWT & Google OAuth
 - API Document: Swagger
 - Searching: Opensearch
