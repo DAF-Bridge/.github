@@ -48,6 +48,14 @@ The repository for ML model that will be used for inferencing
 - Language: Python
 - Continuous Integration: GitHub Action
 
+## Deployment
+This project's deployment is divided into five main parts:
+- Frontend Website (Containerized)
+- Admin Console Site 
+- Backend Service (Containerized)
+- Kafaka Consumer (Containerized)
+- Recommendation Service
+
 ---
 ### Link
 - Talent Frontend:  You can visit our site via this link: [Talent-Atmos-Frontend](https://talent-atmos.netlify.app)
