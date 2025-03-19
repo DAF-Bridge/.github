@@ -16,7 +16,7 @@ In the project's repository it contains Dockerfile for building the docker image
 - Language: TypeScript
 - Styling: Tailwind CSS
 - Continuous Integration: GitHub Action
-- Continuous Development: Netlify
+- Continuous Delivery: Netlify
 
 ## Talent Atmos Admin
 The official frontend repository for Talent Atmos Admin <br />
@@ -27,7 +27,7 @@ It needs environment variables show in .env.example for deployment
 - UI Components: Shadcn
 - Styling: Tailwind CSS
 - Continuous Integration: GitHub Action
-- Continuous Development: Netlify
+- Continuous Delivery: Netlify
 
 ## Talent Atmos Backend
 The official backend repository for Talent Atmos Backend <br />
@@ -41,7 +41,7 @@ In the project's repository it contains Dockerfile for building the docker image
 - Searching: Opensearch
 - RBAC: Casbin
 - Continuous Integration: GitHub Action
-- Continuous Development: Jenkins
+- Continuous Delivery: Jenkins
 
 ## Kafka-Consumer-CDC
 The repository for consumer that will process the data change from PostgreSQL to Opensearch/Elasticsearch <br />
