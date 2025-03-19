@@ -5,8 +5,8 @@ This project's deployment is divided into five main parts:
 - Frontend Website (Containerized)
 - Admin Console Site 
 - Backend Service (Containerized)
-- Kafaka Consumer (Containerized)
-- Recommendation Service
+- Kafaka Consumer CDC (Containerized)
+- Recommendation Service (Containerized)
 
 ## Talent Atmos Frontend
 The official frontend repository for Talent Atmos Frontend <br />
@@ -54,7 +54,7 @@ In the project's repository it contains Dockerfile for building the docker image
 - Continuous Integration: GitHub Action
 
 ## Talent Atmos Rec
-The repository for ML model that will be used for inferencing
+The repository for ML model that will be used for inferencing (Recommendation Service).
 ### __Technology Stack__
 - Framework: FastAPI & Pytorch
 - Language: Python
