@@ -59,6 +59,7 @@ The repository for ML model that will be used for inferencing (Recommendation Se
 - Framework: FastAPI & Pytorch
 - Language: Python
 - Continuous Integration: GitHub Action
+- Continuous Delivery: Jenkins
 
 ---
 ### Link
