@@ -1,5 +1,9 @@
 # Talent Atmos
-
+This project aims to develop a public database for youth empowering, business, and social
+ activities through the web application ”Talents Atmos,” which collects information about
+ events, job opportunities, and youth organization data in one place. The platform addresses
+ the problem of scattered information and difficult access.
+ 
 ## Deployment
 This project's deployment is divided into five main parts:
 - Frontend Website (Containerized)
@@ -67,6 +71,7 @@ The repository for ML model that will be used for inferencing (Recommendation Se
 ### Link
 - Talent Atmos Frontend: You can visit our site via this link: [Talent-Atmos-Frontend](https://talent-atmos.netlify.app)
 - Talent Atmos Admin Console: You can visit the admin console site via this link: [Talent-Atmos-Admin](https://ta-mgmt-cons.netlify.app)
+<br />Talent Atmos is dedicated to empowering youth through development events.
 
 <!--
 **Here are some ideas to get you started:**
