@@ -7,6 +7,7 @@ This project's deployment is divided into five main parts:
 - Backend Service (Containerized)
 - Kafaka Consumer CDC (Containerized)
 - Recommendation Service (Containerized)
+You can go and see the docker compose file in the Docker Compose Repository to deploy this project.
 
 ## Talent Atmos Frontend
 The official frontend repository for Talent Atmos Frontend <br />
