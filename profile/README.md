@@ -67,6 +67,8 @@ The repository for ML model that will be used for inferencing (Recommendation Se
 - Continuous Integration: GitHub Action
 - Continuous Delivery: Jenkins
 
+<!--
+**Here are some ideas to get you started:**
 ---
 ### Link
 - Talent Atmos Frontend: You can visit our site via this link: [Talent-Atmos-Frontend](https://talent-atmos.netlify.app)
@@ -74,8 +76,6 @@ The repository for ML model that will be used for inferencing (Recommendation Se
 <br />
 Talent Atmos is dedicated to empowering youth through development events.
 
-<!--
-**Here are some ideas to get you started:**
 🙋‍♀️ A short introduction - We are Talent Atmos, we strive to be a centric of youth development events platform.
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
